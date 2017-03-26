@@ -5,8 +5,8 @@ This script is made to upgrade wordpress installs, themes, plugins via the comma
 
 Usage: 
 ```bash
-./wordpress-upgrade.sh
-./wordpress-upgrade.sh -c 
+./wordpress-upgrade.sh # Checks for all wordpress, prompts and upgrades
+./wordpress-upgrade.sh -c  # Just checks for older wordpress
 ```
 
 # restorewordpress.sh 
