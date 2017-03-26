@@ -6,7 +6,8 @@ This script is made to upgrade wordpress installs, themes, plugins via the comma
 Usage: 
 ```bash
 ./wordpress-upgrade.sh
-./wordpress-upgrade.sh -c ```
+./wordpress-upgrade.sh -c 
+```
 
 # restorewordpress.sh 
 http://blog.rimuhosting.com/2013/08/21/how-to-restore-a-wordpress-site-after-hacks-or-exploits-in-10-steps/
@@ -16,5 +17,6 @@ You will still need to manually check wp-config.php and any custom themes
 
 Usage: 
 ```bash
-./restorewordpress.sh /path/to/wordpress```
+./restorewordpress.sh /path/to/wordpress
+```
 
