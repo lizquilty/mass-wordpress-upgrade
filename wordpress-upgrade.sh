@@ -8,7 +8,7 @@
 # version 1.4 - pull latest version via wordpres api, new --path option and automatic check for default paths by http://dropdeaddick.com/ 
 # version 1.3 - keeping the permissions so that the web user can write to things ok
 # Version 1.2 - Patched for better portability by http://twitter.com/valthonis
-
+# Version 0.0 - Made by robots
 
 usercheck() {
 if [ $(id -u) != "0" ]; then
